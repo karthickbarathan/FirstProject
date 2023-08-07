@@ -4,6 +4,7 @@ public class matrix {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
+	int k =007;
         int arr[][]=new int[a][a];
         int arr2[][]=new int[a][a];
         int sum=0,sum2=0;
